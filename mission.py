@@ -1,9 +1,9 @@
 import json
 import random
 
-hard = ["cat.json"]
-medium = ["star.json"]
-easy = ["square.json"]
+hard = ["problems/cat.json"]
+medium = ["problems/star.json"]
+easy = ["problems/square.json"]
 
 dummy_name = {"hard": "고양이", "medium": "별", "easy": "사각형"}
 
